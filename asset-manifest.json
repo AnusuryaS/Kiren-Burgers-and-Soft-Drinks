@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kiren-Burgers-and-Soft-Drinks/static/css/main.096ebb7a.css",
+    "main.js": "/Kiren-Burgers-and-Soft-Drinks/static/js/main.6070b7a7.js",
+    "index.html": "/Kiren-Burgers-and-Soft-Drinks/index.html",
+    "main.096ebb7a.css.map": "/Kiren-Burgers-and-Soft-Drinks/static/css/main.096ebb7a.css.map",
+    "main.6070b7a7.js.map": "/Kiren-Burgers-and-Soft-Drinks/static/js/main.6070b7a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.096ebb7a.css",
+    "static/js/main.6070b7a7.js"
+  ]
+}
